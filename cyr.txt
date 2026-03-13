@@ -15,3 +15,6 @@ fffff888  to    mmmmmm999
 zzzzzzz
 
 同一仓库主至分支
+
+9999
+同一仓库分支至主
